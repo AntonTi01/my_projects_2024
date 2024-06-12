@@ -1,1 +1,1 @@
-This repository holds projects I made in 2023. Basically, i save projects from my work|study|pet projects
+This repository holds projects I made in 2024. Basically, i save projects from my work|study|pet projects
